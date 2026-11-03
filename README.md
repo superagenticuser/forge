@@ -3,7 +3,7 @@
 Interactive 3D gym training web app. Browse **193 exercises** across 17 muscle groups, and see every
 exercise light up on a rotatable **3D anatomical body** (Three.js).
 
-**Live:** https://superagenticuser.github.io/gym-3d/
+**Live:** https://superagenticuser.github.io/forge/
 
 ## Features
 
